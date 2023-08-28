@@ -16,16 +16,16 @@ class Wheel extends React.Component {
                         <div style={{color:theme}}>MENU</div>
                     </div>
                     <div className="controll" id="forward">
-                        <img className="controll" id="forward" src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/fast-forward-24.png"/>
+                        <img className="controll" alt="" id="forward" src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/fast-forward-24.png"/>
                     </div>
                     <div className="controll" id="play-pause">
                         <div>
-                            <img className="controll" id="play-pause" src="https://user-images.githubusercontent.com/99132893/222653735-fd1d9359-c2f9-4732-a2af-aefc252b6388.png"/>
+                            <img className="controll" alt="" id="play-pause" src="https://user-images.githubusercontent.com/99132893/222653735-fd1d9359-c2f9-4732-a2af-aefc252b6388.png"/>
                             
                         </div>
                     </div>
                     <div className="controll" id="reverse">
-                        <img className="controll" id="reverse" src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/fast-backward-24.png"/>
+                        <img className="controll" id="reverse" alt="" src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/fast-backward-24.png"/>
                     </div>
                 </div>
 
